@@ -110,7 +110,7 @@ tribble(
    ~`Linguagem`, ~`GIS`, ~`Manipulação e Modelagem`, ~`Documentação e comunicação`,
   "R, SQL",
   "QGIS, ArcGIS, SAGA-GIS, GDAL, sf, raster, LidR, Earth-Engine",
-  "dplyr, lubridate, stringr, StarUML, OMPR",
+  "dplyr, lubridate, stringr, OMT-G Designer, OMPR",
   "rmarkdown,  ggplot, Flexdashboard, Shiny, tmap, leafleat"
 ) %>%
   kable(booktabs = T, align = 'c', escape = T, format = "latex") %>%
