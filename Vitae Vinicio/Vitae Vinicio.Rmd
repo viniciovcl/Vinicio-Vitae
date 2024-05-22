@@ -109,9 +109,9 @@ classes %>%
 tribble(
    ~`Linguagem`, ~`GIS`, ~`Manipulação e Modelagem`, ~`Documentação e comunicação`,
   "R, SQL",
-  "QGIS, ArcGIS, SAGA-GIS, GDAL, sf, raster, LidR, Earth-Engine",
-  "dplyr, lubridate, stringr, OMT-G Designer, OMPR",
-  "rmarkdown,  ggplot, Flexdashboard, Shiny, tmap, leafleat"
+  "QGIS, ArcGIS, SAGA-GIS, GRASS-GIS, sf, terra, Earth-Engine",
+  "dplyr, lubridate, stringr, OMT-G Designer ",
+  "rmarkdown, ggplot, Flexdashboard, Shiny, tmap, leafleat"
 ) %>%
   kable(booktabs = T, align = 'c', escape = T, format = "latex") %>%
   kable_styling(full_width = F, font_size = 9,latex_options = "hold_position") %>% 
