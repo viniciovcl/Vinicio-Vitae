@@ -92,7 +92,7 @@ leadership <- tribble(
 infraestrutura visando a colheita de madeira e conservação do solo.
          \\item Acompanhamento de tarefas e comunicação com clientes e parceiros para execução de planos e desenvolvimento de
 soluções.
-          \\item Monitoramento da cobertura do solo. Mapeamento com drone, índices de vegetação e series temporais de imagens de
+          \\item Monitoramento da cobertura do solo. Mapeamento com drone, índices de vegetação e séries temporais de imagens de
 satélite.
     \\end{itemize}",
 
@@ -112,19 +112,6 @@ satélite.
 ortofotocartas.
     \\end{itemize}",
 
-
-  "Aluno Pesquisador", "Bolsita de Iniciação Científica CNPq-UFV", "Novembro", 2013, "Setembro", 2015, "Viçosa, Minas Gerais",
-  "Ciência do Solo | gênese, morfologia e classificação dos solos \\begin{itemize}
-        \\item Digestão triácida (química total) e Digestão Sulfúrica (Ataque sulfúrico) em amostras de solos.
-        \\item Descrição de perfís de solo e coleta de amostras.
-        \\item Revisão bibliográfica, documentação de procedimentos de análises e gestão de planilhas de amostras de solo.
-    \\end{itemize}",
-
-
-  "Assistente de Laboratório", "Estágio  DPS-UFV", "Julho", 2012, "Dezembro", 2013, "Viçosa, Minas Gerais",
-  "Ciência do Solo | gênese, morfologia e classificação dos solos  \\begin{itemize}
-        \\item Extração sequencial de fósforo (Mehlich-1 e Resina de troca Iônica) em amostras de Latossolos.
-    \\end{itemize}"
 )
 
 teaching <- tribble(
