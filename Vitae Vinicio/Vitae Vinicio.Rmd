@@ -80,7 +80,7 @@ leadership %>%
 
 CursoR <- c("Versionamento, documentação e reportes")
 
-TS <- c("Detecção de Mudanças, tendência e anomalias")
+TS <- c("Detecção de Mudanças")
 
 
 
