@@ -87,7 +87,7 @@ leadership <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
   "Analista PL", "\\href{https://arauco.com/brasil/}{\\color{black}{Arauco Celulose do Brasil}}", "Junho", 2019, "Março", 2024 , "Aparecida do Taboado, Mato Grosso do Sul",
   "Geoprocessamento \\begin{itemize}
-        \\item Coleta, edição e consistência de dados SIG. Medições de topografia, consultas SQL e automatização de rotinas.
+        \\item Coleta, edição e consistência de dados SIG. Medições de topografia, consultas SQL.
         \\item Alocação de áreas de manejo florestal e auxílio na definição de práticas operacionais. Planejamento de estradas e
 infraestrutura visando a colheita de madeira e conservação do solo.
          \\item Acompanhamento de tarefas e comunicação com clientes e parceiros para execução de planos e desenvolvimento de
