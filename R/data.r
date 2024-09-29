@@ -92,7 +92,7 @@ leadership <- tribble(
 infraestrutura visando a colheita de madeira e conservação do solo.
          \\item Acompanhamento de tarefas e comunicação com clientes e parceiros para execução de planos e desenvolvimento de
 soluções.
-          \\item Monitoramento da cobertura do solo. Mapeamento com drone, índices de vegetação e séries temporais de imagens de
+          \\item Monitoramento da cobertura do solo. Mapeamento com drone e imagens de
 satélite.
     \\end{itemize}",
 
