@@ -78,9 +78,9 @@ leadership %>%
 ```{r Projetos}
 
 
-CursoR <- c("Versionamento, documentação e reportes")
+CursoR <- c("Documentação de processos e reportes usando a ferramenta Rmarkdown.")
 
-TS <- c("Detecção de Mudanças")
+TS <- c("Detecção de mudanças em séries temporais")
 
 
 
@@ -200,14 +200,12 @@ structure(
 ```
 
 
+
+
 # Informações complementares
 
-- Procuro desenvolver competências para execução de planos envolvendo múltiplos times, transmitindo informações de
-forma clara e alinhamento entre as partes envolvidas.
+- Possuo experiência com ferramentas de manipulação e análise de dados. Usuário R (linguagem de programação). Tenho aplicado conhecimentos para resumir e interpretar dados e comunicar resultados, buscando facilitar a tomada de decisão.
 
-
-- Possuo experiência com ferramentas de manipulação e análise de dados. Usuário R (linguagem de programação). Tenho
-aplicado conhecimentos para resumir e interpretar dados e comunicar resultados, buscando facilitar a tomada de decisão.
 
 
 ## Região de interesse
