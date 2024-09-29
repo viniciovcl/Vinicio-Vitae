@@ -80,7 +80,7 @@ leadership %>%
 
 CursoR <- c("Documentação de processos e reportes usando a ferramenta Rmarkdown.")
 
-TS <- c("Detecção de mudanças em séries temporais")
+TS <- c("Detecção de mudanças em séries temporais.")
 
 
 
@@ -204,7 +204,7 @@ structure(
 
 # Informações complementares
 
-- Possuo experiência com ferramentas de manipulação e análise de dados. Usuário R (linguagem de programação). Tenho aplicado conhecimentos para resumir e interpretar dados e comunicar resultados, buscando facilitar a tomada de decisão.
+- Usuário R (linguagem de programação). Tenho aplicado conhecimentos para resumir e interpretar dados e comunicar resultados, buscando facilitar a tomada de decisão.
 
 
 
