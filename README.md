@@ -1,1 +1,1 @@
-Meu currículo vitae::
+Currículo vitae::
