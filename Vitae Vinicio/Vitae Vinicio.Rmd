@@ -205,8 +205,6 @@ structure(
 - Procuro desenvolver competências para execução de planos envolvendo múltiplos times, transmitindo informações de
 forma clara e alinhamento entre as partes envolvidas.
 
-- Busco contribuir com a replicabilidade e documentação das soluções desenvolvidas pela equipe. Tenho prestado apoio
-com automatização de fluxos de trabalho e análises, visando aumentar a capacidade de atender as demandas.
 
 - Possuo experiência com ferramentas de manipulação e análise de dados. Usuário R (linguagem de programação). Tenho
 aplicado conhecimentos para resumir e interpretar dados e comunicar resultados, buscando facilitar a tomada de decisão.
