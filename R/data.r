@@ -85,7 +85,7 @@ research <- tribble(
 
 leadership <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Analista PL", "\\href{https://arauco.com/brasil/}{\\color{black}{Arauco Celulose do Brasil}}", "Junho", 2019, "Março", 2024 , "Aparecida do Taboado, Mato Grosso do Sul",
+  "Analista PL", "\\href{https://arauco.com/brasil/}{\\color{black}{Arauco Celulose do Brasil}}", "Junho", 2019, "Setembro", 2024 , "Aparecida do Taboado, Mato Grosso do Sul",
   "Geoprocessamento \\begin{itemize}
         \\item Coleta, edição e consistência de dados SIG. Medições de topografia, consultas SQL.
         \\item Alocação de áreas de manejo florestal e auxílio na definição de práticas operacionais. Planejamento de estradas e
@@ -97,13 +97,6 @@ satélite.
     \\end{itemize}",
 
 
-
-  "Pesquisador Graduado", "\\href{https://esalqgeocis.wixsite.com/geocis}{\\color{black}{GEOCIS - Geotecnologias em Ciência do Solo}}", "Março", 2017, "Fevereiro", 2018, "Piracicaba, São Paulo",
-  "Mapeamento Digital de Solos \\begin{itemize}
-        \\item Planejamento de malha amostral, descrição e coleta de amostras de solo.
-        \\item Análise exploratória de dados de sensoriamento remoto para mapeamento digital de solos.
-        \\item Documentação de processos e comunicação de resultados a partir de relatórios e exposição oral.
-    \\end{itemize}",
 
 
   "Auxiliar Técnico", "\\href{https://www.topocart.com.br/}{\\color{black}{Topocart topografia engenharia e aerolevantamentos S/S LTDA}}", "Março", 2016, "Janeiro", 2017, "Brasília, Distrito Federal",

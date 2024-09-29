@@ -98,28 +98,6 @@ classes %>%
 ```
 
 
-
-# Ferramentas
-
-<!-- \noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}} -->
-
-<!-- \par\noindent\nobreak\vspace{-30pt}\rule{\textwidth}{1pt} -->
-
-```{r techtable, results='markup'}
-tribble(
-   ~`Linguagem`, ~`GIS`, ~`Manipulação e Modelagem`, ~`Documentação e comunicação`,
-  "R, SQL",
-  "QGIS, ArcGIS, SAGA-GIS, GRASS-GIS, sf, terra, Earth-Engine, AgroCAD",
-  "tidyr, lubridate, stringr, Geodatabase, GeoPackage, OMT-G Designer",
-  "ggplot, markdown, Flexdashboard, Shiny-dashboard,  Geoserver"
-) %>%
-  kable(booktabs = T, align = 'c', escape = T, format = "latex") %>%
-  kable_styling(full_width = F, font_size = 9,latex_options = "hold_position") %>% 
-  row_spec(0, bold = T, color = "#414141") %>% 
-  row_spec(1, bold = F, color = "#7f7f7f") %>% 
-  kableExtra::column_spec(column = 1:4, width = '4.26cm')
-```
-
 <!-- \smallskip -->
 
 
@@ -133,10 +111,6 @@ Geocursos <- c("DBA postgis")
 
 CursoR <- c("Dashboards com shiny")
 
-Esalq <- c("LSN5847 - Geoprocessamento aplicado ao planejamento do uso da terra",
-"LSO5830 - Sensoriamento remoto aplicado a solos e levantamento")
-
-UFLA <- c("PCF508 – Pesquisa operacional para fins florestais")
 
 SELPER <- c("Sistemas de banco de dados geográficos",
 "Processamento digital de imagens")
@@ -145,11 +119,9 @@ SELPER <- c("Sistemas de banco de dados geográficos",
 
 classes <- tibble(title =c(rep("SELPER Brasil", length(SELPER)),
                            rep("Curso-R", length(CursoR)),
-                           rep("PPGEF-UFLA", length(UFLA)), 
-                           rep("PPG Esalq-USP",length(Esalq)),
                            rep("Geocursos", length(Geocursos)) 
                             ),
-                  detail = c(SELPER, CursoR, UFLA, Esalq, Geocursos))
+                  detail = c(SELPER, CursoR, Geocursos))
 
 classes %>%
   detailed_entries(
