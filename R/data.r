@@ -85,7 +85,7 @@ research <- tribble(
 
 leadership <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Analista PL", "\\href{https://arauco.com/brasil/}{\\color{black}{Arauco Celulose do Brasil}}", "Junho", 2019, "Setembro", 2024 , "Aparecida do Taboado, Mato Grosso do Sul",
+  "Analista PL", "\\href{https://arauco.com/brasil/}{\\color{black}{Arauco Celulose do Brasil}}", "Junho", 2019, "Novembro", 2024 , "Aparecida do Taboado, Mato Grosso do Sul",
   "Geoprocessamento \\begin{itemize}
         \\item Coleta, edição e consistência de dados SIG.
         \\item Alocação de áreas de manejo florestal e auxílio na definição de práticas operacionais. Planejamento de estradas e
@@ -97,6 +97,12 @@ satélite.
     \\end{itemize}",
 
 
+  "Pesquisador Graduado", "{\\color{black}{GEOCIS- Geotecnologias em Ciência do Solo}}", "Março", 2017, "Fevereiro", 2018, "Piracicaba, São Paulo",
+  "Mapeamento digital de Solos\\begin{itemize}
+          \\item Planejamento de malha amostral, descrição e coleta de amostras de solo.
+          \\item Análise exploratória de dados de sensoriamento remoto para mapeamento digital de solos.
+          \\item Documentação de processos e comunicação de resultados a partir de relatórios e exposição oral.
+          \\end{itemize}",
 
 
   "Auxiliar Técnico", "\\href{https://www.topocart.com.br/}{\\color{black}{Topocart topografia engenharia e aerolevantamentos S/S LTDA}}", "Março", 2016, "Janeiro", 2017, "Brasília, Distrito Federal",
@@ -104,6 +110,19 @@ satélite.
         \\item Processamento de imagens de aerolevantamento para o mapeamento de bases cartográficas e produção de
 ortofotocartas.
     \\end{itemize}",
+
+  "Aluno Pesquisador", "{\\color{black}{Bolsista de Iniciação Ciêntífica CNPQ‑UFV}}", "Novembro", 2013, "Setembro", 2015,  "Viçosa, Minas Gerais",
+  "Ciência do Solo | Gênese, Morfologia, e Classificação de Solos\\begin{itemize}
+          \\item Digestão triácida (química total) e Digestão Sulfúrica (Ataque sulfúrico) em amostras de solos.
+          \\item Descrição de perfís de solo e coleta de amostras.
+          \\item Revisão bibliográfica, documentação de procedimentos de análises e gestão de planilhas de amostras de solo.
+          \\end{itemize}",
+
+  "Assistente de Laboratório", "{\\color{black}{Estágio DPS‑UFV}}", "Julho", 2012, "Dezembro", 2013,  "Viçosa, Minas Gerais",
+  "Ciência do Solo | Gênese, Morfologia, e Classificação de Solos\\begin{itemize}
+          \\item Extração sequencial de fósforo (Mehlich‑1 e Resina de troca Iônica) em amostras de Latossolos.
+          \\end{itemize}"
+
 
 )
 

@@ -78,9 +78,9 @@ leadership %>%
 ```{r Projetos}
 
 
-CursoR <- c("Documentação de processos e reportes usando a ferramenta Rmarkdown.")
+CursoR <- c("Versionamento, documentação e reportes.")
 
-TS <- c("Detecção de mudanças em séries temporais.")
+TS <- c("Séries temporais, Data cube raster.")
 
 
 
@@ -100,6 +100,29 @@ classes %>%
 
 <!-- \smallskip -->
 
+
+# Ferramentas
+
+<!-- \noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}} -->
+
+  <!-- \par\noindent\nobreak\vspace{-30pt}\rule{\textwidth}{1pt} -->
+
+```{r techtable, results='markup'}
+tribble(
+  ~`Linguagem`, ~`GIS`, ~`Manipulação e Modelagem`, ~`Documentação e comunicação`,
+  "R, SQL",
+  "QGIS, ArcGIS, SAGA-GIS,  sf, raster, terra, Earth-Engine, AgroCAD",
+  "tidyr, lubridate, stringr, Geodatabase, GeoPackage",
+  "ggplot, Rmarkdown, Flexdashboard, Shiny-dashboard"
+) %>%
+  kable(booktabs = T, align = 'c', escape = T, format = "latex") %>%
+  kable_styling(full_width = F, font_size = 9,latex_options = "hold_position") %>%
+  row_spec(0, bold = T, color = "#414141") %>%
+  row_spec(1, bold = F, color = "#7f7f7f") %>%
+  kableExtra::column_spec(column = 1:4, width = '4.26cm')
+```
+
+<!-- \smallskip -->
 
 
 # Cursos e Treinamentos
@@ -201,16 +224,17 @@ structure(
 
 
 
+# Publicações
 
-# Informações complementares
+- Camêlo, D. de L., Ker, J. C., Novais, R. F., Corrêa, M. M., & **Lima, V. C.** , (2015). SEQUENTIAL EXTRACTION OF PHOSPHORUS BY MEHLICH-1 AND ION EXCHANGE RESIN FROM B HORIZONS OF FERRIC AND PERFERRIC LATOSOLS (OXISOLS). Revista Brasileira De Ciência Do Solo, 39(4), 1058–1067. https://doi.org/10.1590/01000683rbcs20140405
 
-- Usuário R (linguagem de programação). Tenho aplicado conhecimentos para resumir e interpretar dados e comunicar resultados, buscando facilitar a tomada de decisão.
+## Resumos
+
+- Siqueira, R. G.; **Lima, V. C.**; Souza, J. J. L. L. . Análise quantitativa da variabilidade espacial da densidade de drenagem com o estimador de densidade de Kernel em ambiente SIG. in: Anais do XVIII Simpósio Brasileiro de Sensoriamento Remoto-SBSR, 2017, Santos. INPE Santos - SP. ISBN: 978-85-17-00088-1
+
+- **LIMA, V. C.** ; CAMÊLO, D. L. ; KER, J. C. ; CORRÊA, M. M. ; VIDAL-TORRADO, P. . ATRIBUTOS FÍSICOS E QUÍMICOS DE LATOSSOLOS VERMELHOS FÉRRICOS E PERFÉRRICOS DE MINAS GERAIS. In: XXXIV Congresso Brasileiro de Ciência do Solo, 2013, Florianópolis. Ciência do Solo: Para que e para quem? Programa & Resumos. Florianópolis: Epagri e SBCS. v. 2.
 
 
+- CAMÊLO, D. L. ; **LIMA, V. C.** ; KER, J. C. ; CORRÊA, M. M. ; VIDAL-TORRADO, P. . UTILIZAÇÃO DA RELAÇÃO MOLAR FE2O3/TIO2 PARA SEPARAÇÃO DE LATOSSOLOS VERMELHOS DESENVOLVIDOS DE ROCHAS BÁSICAS. In: XXXIV Congresso Brasileiro de Ciência do Solo, 2013, Florianópolis. Ciência do Solo: Para que e para quem? Programa & Resumos. Florianópolis: Epagri e SBCS, 2013. v. 2.
 
-## Região de interesse
-
-- Preferência pelo Mato Grosso do Sul e interior de São Paulo.
-- Aceito viajar pela empresa.
-- Aceito considerar propostas de outras regiões.
 
