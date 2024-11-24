@@ -90,7 +90,7 @@ leadership <- tribble(
         \\item Coleta, edição e consistência de dados SIG.
         \\item Alocação de áreas de manejo florestal e auxílio na definição de práticas operacionais. Planejamento de estradas e
 infraestrutura visando a colheita de madeira e conservação do solo.
-         \\item Acompanhamento de tarefas e comunicação com clientes e parceiros para execução de planos e desenvolvimento de
+         \\item Acompanhamento de tarefas, comunicação com clientes e parceiros para execução de planos e desenvolvimento de
 soluções.
           \\item Monitoramento da cobertura do solo. Mapeamento com drone e imagens de
 satélite.

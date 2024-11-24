@@ -161,7 +161,7 @@ classes %>%
 structure(
   list(
     what = c(
-      "Instituto de Gociências",
+      "Instituto de Geociências",
       "Departamento de Ciência do Solo",
       "Departamento de Geografia"
     ),
