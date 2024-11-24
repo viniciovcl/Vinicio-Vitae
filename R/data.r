@@ -85,7 +85,7 @@ research <- tribble(
 
 leadership <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Analista PL", "\\href{https://arauco.com/brasil/}{\\color{black}{Arauco Celulose do Brasil}}", "Junho", 2019, "Novembro", 2024 , "Aparecida do Taboado, Mato Grosso do Sul",
+  "Analista PL", "\\href{https://arauco.com/brasil/}{\\color{black}{Arauco Celulose do Brasil}}", "Junho", 2019, "Novembro", 2024 , "Paranaíba, Mato Grosso do Sul",
   "Geoprocessamento \\begin{itemize}
         \\item Coleta, edição e consistência de dados SIG.
         \\item Alocação de áreas de manejo florestal e auxílio na definição de práticas operacionais. Planejamento de estradas e

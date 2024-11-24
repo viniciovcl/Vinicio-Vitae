@@ -12,7 +12,6 @@ headcolor: 414141
 docname: CV
 output:
   vitae::awesomecv: default
-  vitae::markdowncv: default
 editor_options:
   chunk_output_type: console
 ---
@@ -80,7 +79,7 @@ leadership %>%
 
 CursoR <- c("Versionamento, documentação e reportes.")
 
-TS <- c("Séries temporais, Data cube raster.")
+TS <- c("Séries temporais, STAC")
 
 
 
